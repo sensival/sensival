@@ -50,6 +50,8 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 </br>
 </br>
+</br>
+</br>
 ## Studying :books:
 ### Language
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -65,9 +67,10 @@
 
 ### Others
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
 </br>
-<h3 align="left">📫 Contact 📫</h3>
+</br>
+</br>
+## Contact 💌
 <div align="left">
   <a href="https://blog.naver.com/sensi_val">
     <img src="https://img.shields.io/badge/blog-%23white.svg?style=for-the-badge&logo=blog&logoColor=white"/>
