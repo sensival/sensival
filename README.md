@@ -1,8 +1,5 @@
 <!--타이틀 부분-->
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sensival&show_icons=true&theme=radical)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)-->
 ***
 
 <!--내용 부분-->
