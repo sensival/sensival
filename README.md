@@ -1,7 +1,8 @@
 <!--타이틀 부분-->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=sensival&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sensival&show_icons=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+***
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
