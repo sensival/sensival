@@ -5,7 +5,7 @@
    - [YOLOv8 라이브러리를 이용한 X-ray 분류 모델 파인튜닝](https://github.com/sensival/screenshot_predict)
    - [U-net 을 이용한 기흉 영역 분할 모델 개발](https://github.com/sensival/Unet_segmentation)
    - [암 발생률의 지역간 격차와 요인 분석](https://github.com/sensival/4-1_Data_science/tree/main/toy_project_1)
-   - [(COVID-19 예후 예측 모델)](https://github.com/sensival/4-1_Data_science/tree/main/toy_project_2)
+   - [COVID-19 예후 예측 모델](https://github.com/sensival/4-1_Data_science/tree/main/toy_project_2)
    - [H&E 염색된 조직 이미지로부터 유전자 발현 예측 회귀 모델](https://github.com/sensival/pytorch_study/tree/main/dacon_mai)
    - [Kardex Gallery](https://github.com/sensival/graduation_project)
     
